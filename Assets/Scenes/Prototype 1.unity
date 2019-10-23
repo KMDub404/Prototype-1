@@ -1030,13 +1030,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0.03315214, y: -0.013253368, z: 0.040727332, w: 0.99853224}
-  m_LocalPosition: {x: 11.84, y: 5.48, z: 59.49}
-  m_LocalScale: {x: -1.7113403, y: -1.7113403, z: -1.7113403}
+  m_LocalRotation: {x: -0.0053388705, y: 0.020723132, z: 0.009312359, w: -0.99972767}
+  m_LocalPosition: {x: -0.67, y: 3.46, z: 66.78}
+  m_LocalScale: {x: -1.9288516, y: -1.9288516, z: -1.9288516}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 3.8580003, y: -1.365, z: 4.625}
+  m_LocalEulerAnglesHint: {x: 0.59000003, y: -362.381, z: -1.08}
 --- !u!1001 &578002886
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3258,6 +3258,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 456524, guid: 71782582b9d2cac4cba5251a3b767d13, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389992441, guid: 71782582b9d2cac4cba5251a3b767d13, type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
